@@ -11,7 +11,7 @@
     "aws-sdk": "^2.1147.0",
     "console": "^0.7.2",
     "dynamodb-toolbox": "^0.3.5",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "process": "^0.11.10",
     "uuid": "^8.3.2"
   },
